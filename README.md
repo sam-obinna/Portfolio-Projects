@@ -1,11 +1,7 @@
 # Portfolio-Projects
+# Author : SAMUEL OBINNA NWAFOR
  This repository containing all my Projects 
- There are currently six (6) projects in total
-touch Project1/README.md:
-touch Project2/README.md:
-touch Project3/README.md:
-touch Project4/README.md:
-touch Project5/README.md:
-touch Project6/README.md:
- 
+ Various tools were used during the projects.
+ Main Tools: SQL, EXCEL, Tableau, Python
+ Other Tools: Python Libraries which include Jupyter Notebooks, Pandas, NumPy, MatPlotLib, Classifier(CNN),
  
